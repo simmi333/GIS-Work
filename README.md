@@ -1,4 +1,5 @@
-Here I have GIS Projects I have done during my time at the University of Washington.
+Here I have GIS Projects I have done during my time at the University of Washington. I graduated with the Geography: Data Science degree:
+https://geography.washington.edu/ba-geography-data-science-option
 
 # Arc GIS Online Story Maps:
 
