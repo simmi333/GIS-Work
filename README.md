@@ -29,7 +29,7 @@ https://storymaps.arcgis.com/stories/4785f88154d14645bb93e145a8d6e696
 
 [Link to project github](https://github.com/simmi333/Geog328_FinalProject.git)
 
-![Europe Carbon](Images/screenshot1_finalproject.png)
+![Europe Carbon](images/screenshot1_finalproject.png)
 
 ## QGis
 
@@ -40,7 +40,7 @@ https://storymaps.arcgis.com/stories/4785f88154d14645bb93e145a8d6e696
 - Used raster datasets, interpolation, and custom symbology.
 - Designed inset maps to highlight regional climate impacts.
 
-![Climate Map](Images/climate-map-qgis.png)
+![Climate Map](images/climate-map-qgis.png)
 
 
 ## Python
@@ -55,7 +55,7 @@ In this project, our group created a Sankey diagram to visualize ferry ridership
 
 This project focuses on the Seattle metropolitan area and surrounding waters, where ferries are a central part of daily transportation. The Washington State Ferries system includes 13 key routes that connect cities and islands across the Puget Sound.
 
-![Ferry Snakey Diagram](Images/ferry_visualization.png)
+![Ferry Snakey Diagram](images/ferry_visualization.png)
 
 The Sankey diagram presents ferry routes as flows, with origin points on the left and destination points on the right. The width of each flow corresponds to the total number of passengers, allowing for an immediate visual comparison between routes.
 
@@ -73,5 +73,5 @@ https://wsdot.wa.gov/sites/default/files/2024-01/WashingtonStateFerries-TrafficS
 
 ### Wildfires in Oregon
 
-![Oregon Wildfires](Images/screenshot_wildfire.png)
+![Oregon Wildfires](images/screenshot_wildfire.png)
 Link to Shiny App: https://simmi333.shinyapps.io/wildfire-visualizer/
