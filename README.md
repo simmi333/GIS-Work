@@ -31,6 +31,18 @@ https://storymaps.arcgis.com/stories/4785f88154d14645bb93e145a8d6e696
 
 ![Europe Carbon](images/screenshot1_finalproject.png)
 
+## ArcGIS Pro
+
+### Drinking Water Systems and Buffer Zones – Snohomish County, WA
+- Created in ArcGIS Pro using public data from the [Washington Department of Health](https://geo.wa.gov/datasets/WADOH::drinking-water-systems/explore)
+- Mapped drinking water systems across Snohomish County and applied a 500-meter buffer analysis.
+- Styled water systems by operational status (active, inactive) using unique symbology.
+- Designed a professional layout with legend, scale bar, north arrow, and descriptive text.
+
+This project explores how proximity analysis and cartographic design can support environmental planning and water resource management. It highlights areas potentially sensitive to nutrient runoff and land use impacts, and demonstrates spatial filtering, symbology, and layout design in ArcGIS Pro.
+
+![Snohomish Water Buffer Map](images/layout.png)
+
 ## QGis
 
 ### Mapping Climate Change with QGIS
