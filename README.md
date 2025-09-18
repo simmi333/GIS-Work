@@ -41,7 +41,7 @@ https://storymaps.arcgis.com/stories/4785f88154d14645bb93e145a8d6e696
 
 This project explores how proximity analysis and cartographic design can support environmental planning and water resource management. It highlights areas potentially sensitive to nutrient runoff and land use impacts, and demonstrates spatial filtering, symbology, and layout design in ArcGIS Pro.
 
-![Snohomish Water Buffer Map](images/layout.png)
+![Snohomish Water Buffer Map](images/Layout.png)
 
 ## QGis
 
