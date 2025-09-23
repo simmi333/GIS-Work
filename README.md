@@ -34,13 +34,10 @@ Hello! I'm Simran, a recent graduate from the University of Washington with a B.
 
 ![Snohomish Water Buffer Map](images/Layout.png)
 
-
-
 ### Python - Ferry Ridership Flow Visualization 
 
 - Sankey diagram of Puget Sound ferry routes  
 - Processed WSDOT data to visualize passenger flows  
-[View GitHub Repo](https://github.com/simmi333/GIS-Work/tree/main/FerrySankey)
 
 ![Ferry Snakey Diagram](images/ferry_visualization.png)
 
@@ -54,6 +51,8 @@ We used three variables:
 
 Data collected from: Washington State Ferries Traffic Statistics Rider Segment Report 
 https://wsdot.wa.gov/sites/default/files/2024-01/WashingtonStateFerries-TrafficStatistics-2023Annual.pdf
+
+
 
 
 ### R Shiny - Oregon Wildfires Visualizer
