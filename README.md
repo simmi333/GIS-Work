@@ -1,12 +1,18 @@
-Hello! My name is Simran and I'm a recent [Geography–Data Science](https://geography.washington.edu/ba-geography-data-science-option) graduate from the University of Washington. I specialized in multiple programs within GIS and data science like R, QGIS, ArcGIS Online, and Web GIS. 
+Hello! I'm Simran, a recent graduate from the University of Washington with a B.A. in [Geography–Data Science](https://geography.washington.edu/ba-geography-data-science-option) and a minor in South Asian Studies. I specialized in multiple programs within GIS and data science like R, QGIS, ArcGIS Online, and Web GIS. 
+
+## Featured Projects
 
 
-Here I have GIS Projects I have done during my time at the University of Washington. 
+### ArcGIS Online Story Maps:
+- **Partition of British India**  
+  [View StoryMap](https://storymaps.arcgis.com/stories/c3329ef58d574ae6a680a25ed86ff879)  
+  Historical mapping and personal reflection on migration and borders.
 
-## Arc GIS Online Story Maps:
+- **History of the Bhatti Name**  
+  [View StoryMap](https://storymaps.arcgis.com/stories/4785f88154d14645bb93e145a8d6e696)  
+  Genealogical mapping across regions and generations.
 
 
-### ArcGIS Online Story Map on Partition of Brtish India
 
 https://storymaps.arcgis.com/stories/c3329ef58d574ae6a680a25ed86ff879
 
