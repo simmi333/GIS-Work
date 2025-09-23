@@ -59,7 +59,7 @@ https://wsdot.wa.gov/sites/default/files/2024-01/WashingtonStateFerries-TrafficS
 ### R Shiny - Oregon Wildfires Visualizer
 
 - Interactive wildfire map using R Shiny
-[Launch App](https://simmi333.shinyapps.io/wildfire-visualizer/)
+[Launch App](https://github.com/simmi333/Oregon_Wildfires)
 ![Oregon Wildfires](images/screenshot_wildfire.png)
 
 
