@@ -15,3 +15,34 @@ h3 {
   color: #D2B48C;  /* tan */
 }
 
+/* Popup styles */
+#popup {
+  position: fixed;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #FFDAB9;
+  color: #BC8F8F;
+  border: 2px solid #D2B48C;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  z-index: 1000;
+  display: none;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  border-radius: 10px;
+}
+
+#popup button {
+  margin-top: 10px;
+  padding: 5px 10px;
+  background-color: #BC8F8F;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#popup button:hover {
+  background-color: #A07070;
+}
