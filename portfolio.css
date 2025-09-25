@@ -1,10 +1,17 @@
 body {
   background-color: lavender;
   font-family: Arial, sans-serif;
-  color: gray;
+  color: darkgray;
 }
 
 h1 {
+  color: purple;
+}
+
+h2 {
+  color: black;
+}
+h3 {
   color: black;
 }
 
