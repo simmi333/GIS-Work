@@ -1,11 +1,87 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title> Simran's Portfolio </title>
+  <title>Simran Bhatti Portfolio</title>
 </head>
 <body>
-  <h1>
-    
-  </h1>
+
+  <h1>Portfolio</h1>
+  <p>Hello! I'm Simran, a recent graduate from the University of Washington with a B.A. in 
+    <a href="https://geography.washington.edu/ba-geography-data-science-option">Geography–Data Science</a> 
+    and a minor in South Asian Studies. I specialized in multiple programs within GIS and data science like R, QGIS, ArcGIS Online, and Web GIS.
+  </p>
+
+  <h2>Featured Projects</h2>
+
+  <h3>ArcGIS Online Story Maps:</h3>
+  <ul>
+    <li><strong>Partition of British India</strong><br>
+      <a href="https://storymaps.arcgis.com/stories/c3329ef58d574ae6a680a25ed86ff879">View StoryMap</a><br>
+      Historical mapping and personal reflection on migration and borders.
+    </li>
+    <li><strong>History of the Bhatti Name</strong><br>
+      <a href="https://storymaps.arcgis.com/stories/4785f88154d14645bb93e145a8d6e696">View StoryMap</a><br>
+      Genealogical mapping across regions and generations.
+    </li>
+  </ul>
+
+  <h3>Web GIS – Carbon Emissions in Europe</h3>
+  <ul>
+    <li>Built with HTML, JavaScript, and SQL</li>
+    <li>Features interactive time slider, emissions gradients, and popups</li>
+    <li>Designed for public and policymaker engagement</li>
+  </ul>
+  <p>
+    <a href="https://jordanchiang627.github.io/Geog328_FinalProject/">Launch App</a><br>
+    <a href="https://github.com/jordanchiang627/Geog328_FinalProject">View GitHub Repo</a>
+  </p>
+  <img src="images/screenshot1_finalproject.png" alt="Europe Carbon">
+
+  <h3>ArcGIS Pro – Drinking Water Systems & Buffer Zones</h3>
+  <ul>
+    <li>Created in ArcGIS Pro using public data from the 
+      <a href="https://geo.wa.gov/datasets/WADOH::drinking-water-systems/explore">Washington Department of Health</a>
+    </li>
+    <li>Mapped drinking water systems across Snohomish County and applied a 500-meter buffer analysis.</li>
+    <li>Styled water systems by operational status (active, inactive) using unique symbology.</li>
+    <li>Designed a professional layout with legend, scale bar, north arrow, and descriptive text.</li>
+  </ul>
+  <img src="images/Layout.png" alt="Snohomish Water Buffer Map">
+
+  <h3>Python – Ferry Ridership Flow Visualization</h3>
+  <ul>
+    <li>Sankey diagram of Puget Sound ferry routes</li>
+    <li>Processed WSDOT data to visualize passenger flows</li>
+  </ul>
+  <img src="images/ferry_visualization.png" alt="Ferry Sankey Diagram">
+  <p>The Sankey diagram presents ferry routes as flows, with origin points on the left and destination points on the right. The width of each flow corresponds to the total number of passengers, allowing for an immediate visual comparison between routes.</p>
+  <p>We used three variables:</p>
+  <ul>
+    <li>Source: Ferry terminal of departure</li>
+    <li>Target: Destination terminal</li>
+    <li>Value: Number of riders</li>
+  </ul>
+  <p>Data collected from: 
+    <a href="https://wsdot.wa.gov/sites/default/files/2024-01/WashingtonStateFerries-TrafficStatistics-2023Annual.pdf">Washington State Ferries Traffic Statistics Rider Segment Report</a>
+  </p>
+
+  <h3>R Shiny – Oregon Wildfires Visualizer</h3>
+  <ul>
+    <li>Interactive wildfire map using R Shiny</li>
+  </ul>
+  <p>
+    <a href="https://simmi333.shinyapps.io/wildfire-visualizer/">Launch App</a><br>
+    <a href="https://github.com/simmi333/Oregon_Wildfires?tab=readme-ov-file">GitHub Repo</a>
+  </p>
+  <img src="images/screenshot_wildfire.png" alt="Oregon Wildfires">
+
+  <h3>QGIS</h3>
+  <ul>
+    <li>Compared historical vs. projected temperatures data across the U.S.</li>
+    <li>Used raster datasets, interpolation, and custom symbology.</li>
+    <li>Designed inset maps to highlight regional climate impacts.</li>
+  </ul>
+  <img src="images/climate-map-qgis.png" alt="Climate Map">
+
 </body>
 </html>
