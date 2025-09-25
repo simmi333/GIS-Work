@@ -1,3 +1,4 @@
+# Portfolio
 Hello! I'm Simran, a recent graduate from the University of Washington with a B.A. in [Geography–Data Science](https://geography.washington.edu/ba-geography-data-science-option) and a minor in South Asian Studies. I specialized in multiple programs within GIS and data science like R, QGIS, ArcGIS Online, and Web GIS. 
 
 ## Featured Projects
@@ -59,6 +60,7 @@ https://wsdot.wa.gov/sites/default/files/2024-01/WashingtonStateFerries-TrafficS
 
 - Interactive wildfire map using R Shiny
 [Launch App](https://simmi333.shinyapps.io/wildfire-visualizer/)
+
 [GitHub Repo](https://github.com/simmi333/Oregon_Wildfires?tab=readme-ov-file)
 ![Oregon Wildfires](images/screenshot_wildfire.png)
 
