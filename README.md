@@ -19,8 +19,10 @@ Hello! I'm Simran, a recent graduate from the University of Washington with a B.
 
 - Built with HTML, JavaScript, and SQL  
 - Features interactive time slider, emissions gradients, and popups  
-- Designed for public and policymaker engagement  
-  [View GitHub Repo](https://github.com/jordanchiang627/Geog328_FinalProject))
+- Designed for public and policymaker engagement
+[Launch APP](https://jordanchiang627.github.io/Geog328_FinalProject/)
+
+[View GitHub Repo](https://github.com/jordanchiang627/Geog328_FinalProject))
 
 ![Europe Carbon](images/screenshot1_finalproject.png)
 
