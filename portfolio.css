@@ -9,10 +9,10 @@ h1 {
 }
 
 h2 {
-  color: #556B2F; /* DarkOliveGreen */
+  color: #CD853F; /* peru color */
 }
 h3 {
-  color: #CD853F; /* peru color */
+  color: #556B2F; /* DarkOliveGreen */
 }
 
 /* Popup styles */
@@ -21,7 +21,7 @@ h3 {
   top: 30%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background-color: #556B2F; /* DarkOliveGreen */
+  background-color: #BC8F8F; /* rosey brown*/
   color: #CD853F; /* peru color */
   border: 2px solid #D2B48C;
   padding: 20px;
