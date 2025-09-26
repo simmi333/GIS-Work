@@ -36,8 +36,8 @@ h3 {
 #popup button {
   margin-top: 10px;
   padding: 5px 10px;
-   color: #556B2F; /* DarkOliveGreen */
-  color: white;
+  background-color: white;
+  color: #556B2F; /* DarkOliveGreen */
   border: none;
   border-radius: 5px;
   cursor: pointer;
