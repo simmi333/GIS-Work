@@ -1,18 +1,18 @@
 body {
-  background-color: #808000; /* olive color */
+  background-color: #BC8F8F; /* rosey brown*/
   font-family: Arial, sans-serif;
-  color: #FFDAB9;
+  color: ##000000;
 }
 
 h1 {
-  color: #BC8F8F; /* rosey brown*/
+  color: #808000; /* olive color */
 }
 
 h2 {
-  color: #FFDAB9; /* peachypuff */
+  color: #CD853F; /* peru */
 }
 h3 {
-  color: #D2B48C;  /* tan */
+  color: #8B4513;  /* brown */
 }
 
 /* Popup styles */
