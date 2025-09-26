@@ -22,8 +22,8 @@ h3 {
   left: 50%;
   transform: translate(-50%, -50%);
   background-color: #BC8F8F; /* rosey brown*/
-  color: #CD853F; /* peru color */
-  border: 2px solid #D2B48C;
+  color: #556B2F; /* DarkOliveGreen */
+  border: 2px solid #556B2F; /* DarkOliveGreen */
   padding: 20px;
   box-shadow: 0 0 10px rgba(0,0,0,0.3);
   z-index: 1000;
@@ -36,7 +36,7 @@ h3 {
 #popup button {
   margin-top: 10px;
   padding: 5px 10px;
-   color: #CD853F; /* peru color */
+   color: #556B2F; /* DarkOliveGreen */
   color: white;
   border: none;
   border-radius: 5px;
